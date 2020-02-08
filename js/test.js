@@ -13,3 +13,10 @@ function myFunction1(){
 function alertBox(){
     alert("Nani the fuck?");
 }
+
+function visitingBox(){
+	alert("Opening new tab");
+}
+
+
+
